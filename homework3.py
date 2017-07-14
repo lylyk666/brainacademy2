@@ -1,3 +1,11 @@
+# Tab width must be 4 spaces
+# assining variables should look like this example:
+#     count1 = 0
+#     count2 = 0
+
+# rewrite your home work withot "while loop" operator using
+# use only "string" object methods
+
 def func():
 	count1=0
 	count2=0
